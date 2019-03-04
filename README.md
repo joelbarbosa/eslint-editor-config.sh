@@ -7,7 +7,7 @@ Configure ESlint + Prettier-ESlint + Airbnb Style.
 
 ```sh
 # copy eslint-editor-config.sh from this repo
-# past in your root project
+# paste in your root project
 $ sh eslint-editor-config.sh
 
 ```
